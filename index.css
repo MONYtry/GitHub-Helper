@@ -70,3 +70,10 @@ h1
     margin-right: 10%;
     font-size: 18px;
 }
+
+.test {
+    display: flex;
+    justify-content: center;
+    margin-left: -10%;
+    margin-right: 10%;
+}
